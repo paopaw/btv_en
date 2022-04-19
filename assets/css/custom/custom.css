@@ -1,0 +1,62 @@
+body
+{
+	background-image: url(../../images/site_back.png);
+	background-repeat: repeat;
+}
+#logcon
+{
+	background-image: url(../../images/hands-and-calculator1.jpg);
+}
+
+#head
+{
+	height: 45px;
+	/*background-color: #28d36f;*/
+	background-image: linear-gradient(#054c17, #16722f);
+	border-bottom: 2px #23541e solid;
+	padding: 2px;
+	padding-left: 10px;
+}
+
+#banner
+{
+	color:#fff;
+	font-size:25px;
+	font-weight: 600;
+	/*margin: 5px;*/
+}
+
+.container-fluid
+{
+	border-top: 3px green solid;
+	margin-top: 10px;
+	background-color: #fff;
+	box-shadow: 0 5px 5px rgba(0,0,0,.500);
+}
+
+#menu
+{
+	text-align: center;
+	background-color: #d6dcd7;
+	height: 30px;
+	font-size: 15px;
+	font-weight: 600;
+	padding:4px;
+	margin-bottom: 2px;
+	
+	border-bottom: 3px #c5c9c6 solid;
+}
+
+#sub-menu
+{
+	/*background-color: #97dbb0;*/
+	/*cursor: pointer;*/
+	margin-right: 5px;
+	border-radius: 2px;
+}
+
+#sub-menu:hover
+{
+	background-color: #97dbb0;
+	cursor: pointer;
+}

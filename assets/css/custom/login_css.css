@@ -1,0 +1,25 @@
+body
+{
+	background-image: url(../../images/site_back.png);
+	background-repeat: repeat;
+}
+#btv_logo
+{
+	width: 70px;
+	height: 70px;
+}
+#tesda_logo
+{
+	width: 60px;
+	height: 60px;
+}
+#educ
+{
+	padding-top:5px;
+	padding-left:5px;
+	padding-right:5px;
+}
+#educ_choice
+{
+	padding-left:30px;
+}
